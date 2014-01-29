@@ -1,5 +1,6 @@
 ID   chain  T    R   S   Sq  St  L   Lq  Lt  Sr      Er      Is  P   fuzzy?   Species                   Fragment                                Mutation
 ===============================================================================================================================================================
+2YKD A      b    1   254 100 100 254 100 100 0.14    0.14    100 0            Human RSV
 4LP7 B      c    1   171 67  76  205 81  91  2.98    3.11    39  0            Human Metapneumovirus     
 4HI6 C      b    1   85  34  63  103 41  76  3.03    3.23    6   0   fuzzy    BDV                                                               H112W
 4LDD B      b    1   92  36  41  116 46  51  3.36    3.59    13  0   fuzzy    Zaire ebolavirus          UNP residues 44-326
