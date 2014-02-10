@@ -1,0 +1,37 @@
+ID   chain  Species                   Fragment                              Domains   N-term            C-term
+=========================================================================================================================
+2VQP A      Human RSV A2                                                    N+C       0-126             127-255
+2YKD A      Human RSV A2                                                    N+Ci      4-130             131-259
+4LP7 B      Human Metapneumovirus                                           N+C       1-127             136-254
+4HI6 C      BDV                                                             1
+4LDD B      Zaire ebolavirus          UNP residues 44-326                   N+C       45-193            202-309
+1H2D A      Ebola virus sp.           N-TERMINAL DOMAIN, RESIDUES 31-212    N         
+1H2C A      Ebola virus sp.           N-TERMINAL DOMAIN, RESIDUES 55-194    N         
+1ES6 A      Ebola virus sp.                                                 N+C       44-190            191-321
+4LDI A      Zaire ebolavirus          UNP residues 44-326                   N+C       44-190/290-293    191-289/294-310
+4LDM A      Zaire ebolavirus          UNP residues 44-188                   N
+4HIU A      BDV                                                             1
+3F1J A      BDV                                                             1
+4HI5 A      BDV                                                             1
+4HIW A      BDV                                                             1
+4HIY A      BDV                                                             1
+4LD8 A      Sudan ebolavirus          UNP residues 44-326                   N+C       44-190            191-308
+4HIT C      BDV                                                             1
+3TCQ A      Sudan ebolavirus                                                N+C       44-190            191-308
+4LDB C      Zaire ebolavirus          UNP residues 44-326                   N+C       A44-190           A191-319 
+4G1L B      Newcastle disease virus                                         N+C       A14-187/A356-363  A188-353
+4G1G B      Newcastle disease virus                                         N+C       8-188/253-364     189-252
+4G1O B      Newcastle disease virus                                         N+C       17-188/253-364    189-252
+
+
+Note: In structures 4LDB:C and 4G1L:B, TopDomain doesn't detect the two domains, instead shows only one domain.
+      But using other chains, 4LDB:A and 4G1L:A, TopDomain detects both domains. Looking in PDB.org I found that
+      4LDB:C and 4G1L:B have some incomplete atom coordinates.
+
+Domain Consensus:
+Family          N-term          C-term
+=======================================
+RSV             0-128           129-259
+Metapneumo      1-127           136-254
+Ebola           44-190          191-321
+Newcastle       8-188/253-364   189-252
