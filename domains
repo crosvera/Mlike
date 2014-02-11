@@ -19,19 +19,18 @@ ID   chain  Species                   Fragment                              Doma
 4HIT C      BDV                                                             1
 3TCQ A      Sudan ebolavirus                                                N+C       44-190            191-308
 4LDB C      Zaire ebolavirus          UNP residues 44-326                   N+C       A44-190           A191-319 
-4G1L B      Newcastle disease virus                                         N+C       A14-187/A356-363  A188-353
-4G1G B      Newcastle disease virus                                         N+C       8-188/253-364     189-252
-4G1O B      Newcastle disease virus                                         N+C       17-188/253-364    189-252
+4G1L B      Newcastle disease virus                                         N+C       8-188/359-362     189-358
+4G1G B      Newcastle disease virus                                         N+C       8-188/359-364     189-358
+4G1O B      Newcastle disease virus                                         N+C       17-188/359-364    189-358
 
+The domains limits were extracted from the TopDomain webservice.
 
-Note: In structures 4LDB:C and 4G1L:B, TopDomain doesn't detect the two domains, instead shows only one domain.
-      But using other chains, 4LDB:A and 4G1L:A, TopDomain detects both domains. Looking in PDB.org I found that
-      4LDB:C and 4G1L:B have some incomplete atom coordinates.
 
 Domain Consensus:
 Family          N-term          C-term
 =======================================
-RSV             0-128           129-259
+RSV 2VQP        0-126           127-255
+RSV 2YKD        0-130           131-259
 Metapneumo      1-127           136-254
 Ebola           44-190          191-321
-Newcastle       8-188/253-364   189-252
+Newcastle       8-188           189-358

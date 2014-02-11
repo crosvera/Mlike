@@ -2,7 +2,7 @@
 from modeller import *
 import sys
 
-log.verbose
+log.verbose()
 env = environ()
 env.io.atom_files_directory = '../../pdbs/'
 aln = alignment(env)
@@ -14,11 +14,18 @@ aln = alignment(env)
 #              ('3tcq', 'A'), ('4ldb', 'C'), ('4g1l', 'B'), 
 #              ('4g1g', 'B'), ('4g1o', 'B'), ('2ykd', 'A'))
 
-structures = (('2vqp', 'FIRST:129', 'LAST:259', 'A'),      #RSV
-              ('4lp7', 'FIRST:136', 'LAST:254', 'A'),                              #Metapneumovirus
-              ('4ldd', 'FIRST:191', 'LAST:321', 'B'), ('1es6', 'FIRST:191', 'LAST:321', 'A'), ('4ldi', 'FIRST:191', 'LAST:321', 'A'), #Ebola
-              ('4ld8', 'FIRST:191', 'LAST:321', 'A'), ('3tcq', 'FIRST:191', 'LAST:321', 'A'), ('4ldb', 'FIRST:191', 'LAST:321', 'C')) #Ebola
-              ('4g1l', 'FIRST:182', 'LAST:252', 'B'), ('4g1g','FIRST:182', 'LAST:252',  'B'), ('4g1o', 'FIRST:182', 'LAST:252',  'B')) #Newcastle
+#structures = (('2vqp', '129:A', '259:A', 'A'),      #RSV
+#              ('4lp7', '138:A', '254:A', 'A'),                              #Metapneumovirus
+#              ('4ldd', '191:B', '321:B', 'B'), ('1es6', '191:A', '321:A', 'A'), ('4ldi', '191:A', '321:A', 'A'), #Ebola
+#              ('4ld8', '191:A', '321:A', 'A'), ('3tcq', '191:A', '321:A', 'A'), ('4ldb', '191:C', '321:C', 'C'), #Ebola
+#              ('4g1l', '182:B', '252:B', 'B'), ('4g1g', '182:B', '252:B', 'B'), ('4g1o', '182:B', '252:B', 'B')) #Newcastle
+
+structures = (('2vqp', '127:A', 'LAST:A', 'A'), ('2ykd', '131:A', 'LAST:A', 'A'),     #RSV
+              ('4lp7', '136:B', 'LAST:B', 'B'),                              #Metapneumovirus
+              ('4ldd', '191:B', 'LAST:B', 'B'), ('1es6', '191:A', 'LAST:A', 'A'), ('4ldi', '191:A', 'LAST:A', 'A'), #Ebola
+              ('4ld8', '191:A', 'LAST:A', 'A'), ('3tcq', '191:A', 'LAST:A', 'A'), ('4ldb', '191:C', 'LAST:C', 'C'), #Ebola
+              ('4g1l', '189:B', 'LAST:B', 'B'), ('4g1g', '189:B', 'LAST:B', 'B'), ('4g1o', '189:B', 'LAST:B', 'B')) #Newcastle
+
 
 #for (_code, _start, _end, _code_ap) in (('1BL0', 'FIRST:A', 'LAST:A', 'A'), ('1XS9', 'FIRST:A', 'LAST:A', 'A'), ('1D5Y', 'FIRST:C', 'LAST:C', 'C'), ('3OOU', 'FIRST:A', 'LAST:A', 'A'), ('3LSG', 'FIRST:A', 'LAST:A', 'A'), ('3OIO', 'FIRST:A', 'LAST:A', 'A'), ('3MKL', 'FIRST:B', 'LAST:B', 'B'), ('3MN2', 'FIRST:B', 'LAST:B', 'B'), ('2K9S', 'FIRST:A', 'LAST:A', 'A'), ('3GBG', 'FIRST:A', 'LAST:A', 'A')):
 for (_code, _start, _end, _code_ap) in structures:
