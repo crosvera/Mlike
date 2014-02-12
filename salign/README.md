@@ -21,3 +21,9 @@ instructions to perform a multi-structural alignment.
  + `./m8/` contains the structural C-Terminal alignment of RSV:2vqp,2ykd; Ebola:4ldd,1es6,4ldi,4ld8,3tcq,4ldb; Metapneumo:4lp7; Newcastle:4g1l,4g1g,4g1o; BDV:4hi6,4hiu,3f1j,4hi5,4hiw,4hiy,4hit
 
  + `./m9/` contains the structural N-Terminal alignment of RSV:2vqp,2ykd; Ebola:4ldd,1es6,4ldi,4ld8,3tcq,4ldb; Metapneumo:4lp7; Newcastle:4g1l,4g1g,4g1o; BDV:4hi6,4hiu,3f1j,4hi5,4hiw,4hiy,4hit
+
+ + `./m10/` contains the structural C-Terminal alignment of RSV:2vqp,2ykd; Ebola:4ldd,1es6,4ldi,4ld8,3tcq,4ldb,1h2c,1h2d,4ldm; Metapneumo:4lp7; Newcastle:4g1l,4g1g,4g1o; BDV:4hi6,4hiu,3f1j,4hi5,4hiw,4hiy,4hit
+
+ + `./m11/` contains the structural N-Terminal alignment of RSV:2vqp,2ykd; Ebola:4ldd,1es6,4ldi,4ld8,3tcq,4ldb,1h2c,1h2d,4ldm; Metapneumo:4lp7; Newcastle:4g1l,4g1g,4g1o; BDV:4hi6,4hiu,3f1j,4hi5,4hiw,4hiy,4hit
+
+ + `./m12/` contains the structural N-Terminal alignment of RSV:2vqp,2ykd; Ebola:4ldd,1es6,4ldi,4ld8,3tcq,4ldb,1h2c,1h2d,4ldm; Metapneumo:4lp7; Newcastle:4g1l,4g1g,4g1o
