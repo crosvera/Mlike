@@ -5,9 +5,9 @@ ID   chain  Species                   Fragment                              Doma
 4LP7 B      Human Metapneumovirus                                           N+C       1-127             136-254
 4HI6 C      BDV                                                             1
 4LDD B      Zaire ebolavirus          UNP residues 44-326                   N+C       45-193            202-309
-1H2D A      Ebola virus sp.           N-TERMINAL DOMAIN, RESIDUES 31-212    N         
-1H2C A      Ebola virus sp.           N-TERMINAL DOMAIN, RESIDUES 55-194    N         
-1ES6 A      Ebola virus sp.                                                 N+C       44-190            191-321
+1H2D A      Zaire ebolavirus          N-TERMINAL DOMAIN, RESIDUES 31-212    N         
+1H2C A      Zaire ebolavirus          N-TERMINAL DOMAIN, RESIDUES 55-194    N         
+1ES6 A      Zaire ebolavirus                                                N+C       44-190            191-321
 4LDI A      Zaire ebolavirus          UNP residues 44-326                   N+C       44-190/290-293    191-289/294-310
 4LDM A      Zaire ebolavirus          UNP residues 44-188                   N
 4HIU A      BDV                                                             1
