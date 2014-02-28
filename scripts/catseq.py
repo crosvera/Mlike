@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#
+# catseq.py: concatenate two salign pir alignments
+#   % python catseq.py n-term.ali c-term.ali > n+c-term.ali
+#
+# Carlos Ríos Vera <crosvera@gmail.com>
+
+
 from Bio import SeqIO
 from Bio import AlignIO
 from Bio.Align import MultipleSeqAlignment
