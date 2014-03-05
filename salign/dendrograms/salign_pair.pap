@@ -1,0 +1,127 @@
+ _aln.pos         10        20        30        40        50        60
+2vqpA     ----------------------------------------EMETY-VNK--LHE---------GS--- 
+2ykdA     ----------------------------------------EMETY-VNK--LHE---------GS--- 
+4lp7D     -----------------------------------------MESY-LVD--TYQ---------GI--- 
+4lddB     -DTPSNPLRP--------------------------------IADDTIDHA-SHT--------PGS-- 
+1es6A     GDTPSNPLRP--------------------------------IADDTIDHA-SHT--------PGS-- 
+4ldiA     GDTPSNPLRP--------------------------------IADDTIDHA-SHT--------PGS-- 
+4ld8A     MDTPSNSMRP--------------------------------VADDNIDHT-SHT--------PNG-- 
+3tcqA     MDTPSNSMRP--------------------------------VADDNIDHT-SHT--------PNG-- 
+4ldbC     -DTPSNPLRP--------------------------------IADDTIDHA-SHT--------PGS-- 
+4g1lB     ----------GLYFDSALPSSNLLAFPIVLQ-------QI-APQY-RI---QR--LDS----WTDSKE 
+4g1gB     ----------GLYFDSALPSSNLLAFPIVLQDIGDGKKQI-APQY-RI---QR--LDSWTDS---K-E 
+4g1oB     -------------------SSNLLAFPIV---------QI-APQY-RI---QR--LDSWTDS---K-E 
+P03485    MSLLT-----------------------------------EVETY----------------------- 
+ _consrvd
+
+ _aln.p   70        80        90       100       110       120       130
+2vqpA     TYTAAVQYNVLEKD--------------D-D--PASLTIWVPMFQS----SMPADL--LIKE-LA--- 
+2ykdA     TYTAAVQYNVLEKD--------------D-D--PASLTIWVPMFQS----SMPADL--LIKE-LA--- 
+4lp7D     PYTAAVQVDLIEKD--------------L-L--PASLTIWFPLFQA----NTPPAV--LLDQ-LK--- 
+4lddB     VSSAFILEAMVNVISGP-K-----------VLMKQIPIWLPLGVADQKTYS--F-DSTT--AAIML-- 
+1es6A     VSSAFILEAMVNVISGP-K-----------VLMKQIPIWLPLGVADQKTYS--F-DSTT--AAIML-- 
+4ldiA     VSSAFILEAMVNVISGP-K-----------VLMKQIPIWLPLGVADQKTYS--F-DSTT--AAIML-- 
+4ld8A     VASAFILEATVNVISGP-K-----------VLMKQIPIWLPLGIADQKTYS--F-DSTT--AAIML-- 
+3tcqA     VASAFILEATVNVISGP-K-----------VLMKQIPIWLPLGIADQKTYS--F-DSTT--AAIML-- 
+4ldbC     VSSAFILEAMVNVISGP-K-----------VLMKQIPIWLPLGVADQKTYS--F-DSTT--AAIML-- 
+4g1lB     DSVFITTYGFIFQV---G-----------HE--LLSAAMLCLGSVPN---VGDLVE--LARA-CL--- 
+4g1gB     DSVFITTYGFIFQV---GVTVGMISDNPKHE--LLSAAMLCLGSVPN---VGDLVE--LARA-CL--- 
+4g1oB     DSVFITTYGFIFQV---G----------KHE--LLSAAMLCLGSVPN---VGDLVE--LARA-CL--- 
+P03485    -----VL-SII----------------------P----------------SGP------LKAEIAQRL 
+ _consrvd
+
+ _aln.pos  140       150       160       170       180       190       200
+2vqpA     ---------NVNILVKQIST-P------KGPSL----RVMINSRSAVL--A--Q-M-P---SKFTICA 
+2ykdA     ---------NVNILVKQIST-P------KGPSL----RVMINSRSAVL--A--Q-M-P---SKFTICA 
+4lp7D     ---------TLTITTLYAAS-Q------NGPIL----KVNASAQGAAM--S--V-L-P---KKFEVNA 
+4lddB     ---------ASYTITHF----T-------NPLV----RVNR-LG----PGIPDHPLRLLRIGNQAFLQ 
+1es6A     ---------ASYTITHFGK-AT-------NPLV----RVNR-LG----PGIPDHPLRLLRIGNQAFLQ 
+4ldiA     ---------ASYTITHFGK-AT-------NPLV----RVNR-LG----PGIPDHPLRLLRIGNQAFLQ 
+4ld8A     ---------ASYTITHFGK-AN-------NPLV----RVNR-LG----QGIPDHPLRLLRMGNQAFLQ 
+3tcqA     ---------ASYTITHFGK-AN-------NPLV----RVNR-LG----QGIPDHPLRLLRMGNQAFLQ 
+4ldbC     ---------ASYTITHFGK-AT-------NPLV----RVNR-LG----PGIPDHPLRLLRIGNQAFLQ 
+4g1lB     ---------TMVVTCKKSAT-D-------TERM----VFSVVQAPQVL--Q--S-CRVVANKYSSVNA 
+4g1gB     ---------TMVVTCKKSAT-D-------TERM----VFSVVQAPQVL--Q--S-CRVVANKYSSVNA 
+4g1oB     ---------TMVVTCKKSAT-D-------TERM----VFSVVQAPQVL--Q--S-CRVVANKYSSVNA 
+P03485    EDVFAGKNTDLEVLMEWLKTRPILSPLTKG-ILGFVFTLTVPSERGLQRRRFVQNALNGNGDPNNMDK 
+ _consrvd
+
+ _aln.pos    210       220       230       240       250       260       270
+2vqpA     NVSLD--D-SKLAYDVT-------TPCEIKACSLTCLK--SKNML----TTVK--DLTM----KTLN- 
+2ykdA     NVSLD--D-SKLAYDVT-------TPCEIKACSLTCLK--SKNML----TTVK--DLTM----KTLN- 
+4lp7D     T--VALDEYSKLEFDKL-------TVCEVKTVYLTTMK--PY------G----------------K-- 
+4lddB     EFVLPP-VQ--LPQYF--------TFDLTALKLITQPLPA---A---T--W-----TD---------A 
+1es6A     EFVLPP-VQ--LPQYF--------TFDLTALKLITQPLPA---A---T--W-----TDD--------G 
+4ldiA     EFVLPP-VQ--LPQYF--------TFDLTALKLITQPLPA---A---T--W-----TDD-------GA 
+4ld8A     EFVLPP-VQ--LPQYF--------TFDLTALKLVTQPLPA---A---T--W-----TD---------- 
+3tcqA     EFVLPP-VQ--LPQYF--------TFDLTALKLVTQPLPA---A---T--W-----TD---------- 
+4ldbC     EFVLPP-VQ--LPQYF--------TFDLTALKLITQPLPA---A---T--W-----T----------A 
+4g1lB     VKHVKA-PE-KIPGSG--------TLEYKVNFVSLTVV-P-RKDVYK---I-PTA--A-LKVS---GS 
+4g1gB     VKHVKA-PE-KIPGSG--------TLEYKVNFVSLTVV-P-RKDVYK---I-PTA--A-LKVS---GS 
+4g1oB     VKHVKA-PE-KIPGSG--------TLEYKVNFVSLTVV-P-RKDVYK---I-PTA--A-LKVS---GS 
+P03485    AVKL----YRKLKREITFHGAKEISLSYSAGALASCM-GLIYNRMGAVTTEV---------------- 
+ _consrvd
+
+ _aln.pos      280       290       300       310       320       330       340
+2vqpA     PTHDII-ALCEFENIV-T-------------SKK--VI-IPTYLRSI-----SVR----NK-----DL 
+2ykdA     PTHDII-ALCEFENIV-T-------------SKK--VI-IPTYLRSI-----SVR----NK-----DL 
+4lp7D     KTHDLI-ALCDFMDLE-K-------------NTP--VT-IPAFIKSV-----SIK----ESESATV-- 
+4lddB     --LRPG-ISFH--------------------------PKLRPILLP-------T------------SP 
+1es6A     -ALRPG-ISFH--------------------------PKLRPILLPNKNSADLT------------SP 
+4ldiA     --LRPG-ISFH--------------------------PKLRPILLPNK----T-------------SP 
+4ld8A     --LRPG-LSFH--------------------------PKLRPVLLPG--------------------- 
+3tcqA     ---RPG-LSFH--------------------------PKLRPVLLPG------T------------AP 
+4ldbC     --LRPG-ISFH--------------------------PKLRPILLPN-------------------P- 
+4g1lB     SLYNLA-LNVTIDVEVDPKSPLVKSLSKSDSGYY--AN-LFLHIGLM-----STVDKKGKK-----VT 
+4g1gB     SLYNLA-LNVTIDVEVDPKSPLVKSLSKSDSGYY--AN-LFLHIGLM-----STVDKKGKK-----VT 
+4g1oB     SLYNLA-LNVTIDVEVDPKSPLVKSLSKSDSGYY--AN-LFLHIGLM-----STVDKKGKK-----VT 
+P03485    -AFGLVCATC--EQIADSQHR----------SHRQMVTTTNPLIR------------HENRMVLASTT 
+ _consrvd
+
+ _aln.pos        350       360       370       380       390       400
+2vqpA     -NTLENIT-T--TEFKNAITNAKII--PYS---GLL-LVITVTD--NKGA-FK-Y-IKP--------- 
+2ykdA     -NTLENIT-T--TEFKNAITNAKII--PYS---GLL-LVITVTD--NKGA-FK-Y-IKP--------- 
+4lp7D     -------E---A-AI-A--LTQAKI--APYAGLIMI-MTMNNP-K--G--------G----------- 
+4lddB     -----EKIQAIMTS-LQDF-KIV-PIDPTK--N-IM-GIEVPETLVHKL------------------- 
+1es6A     -----EKIQAIMTS-LQDF-KIV-PIDPT---KNIM-GIEVPETLVLKL---TG-------------- 
+4ldiA     -----EKIQAIRTS-LQDF-KIV-PIDPT---KNIM-GIEVPETLVHKL---TG-------------- 
+4ld8A     K----DKIQTIVNL-MQDF-KIV-PIDPA---KSII-GIEVPELLVHKL---TGKK----K------- 
+3tcqA     -----DKIQTIVNL-MQDF-KIV-PIDPA---KSII-GIEVPELLVHKL---TGKK-MSQK------- 
+4ldbC     -----EKIQAIMTS-LQDF-KIV-PIDPT---KNIM-GIEVPETLVHKL---T--------------- 
+4g1lB     -FD--KLERKI-RRL--DL-SVGLS--DVL--GPSV-LVKARGA-R--T---R--------LLAPFFS 
+4g1gB     -FD--KLERKI-RRL--DL-SVGLS--DVL--GPSV-LVKARGA-R--T---R--------LLAPFFS 
+4g1oB     -FD--KLERKI-RRL--DL-SVGLS--DVL--GPSV-LVKARGA-R--T---R--------LLAPFFS 
+P03485    AKAMEQMAGS--SEQAAEAMEVASQARQ------MVQAMRTIGTHPSSSAGLK--------------- 
+ _consrvd
+
+ _aln.p  410       420       430       440       450       460       470
+2vqpA     -QSQFIVDL-GA-YLEK--E----S-IYYVTTNWKHT---ATRFAIK--------------PR---E- 
+2ykdA     -QSQFIVDL-GA-YLEK--E----S-IYYVTTNWKHT---ATRFAIK--------------PM---E- 
+4lp7D     --AGTQVIV--E-LGAY--VQAES--ISKICKTWSHQ---GTRYVLK--------------SR----- 
+4lddB     --QPIIPVLL--------PK----YI-------G----G-DLTMVIT--------------------Q 
+1es6A     -GQPIIPVLL--------PK----YI---G---LDPVAPGDLTMVITQDCDTCHSPASLP-------- 
+4ldiA     -GQPIIPVLL--------PK----YI---G---LDPVAPGDLTMVITQD------------------- 
+4ld8A     NGQPIIPVLL--------PK----YI---G-------PG-DLTMVIT--------------------- 
+3tcqA     NGQPIIPVLL--------PK----YI---G-------PG-DLTMVIT--------------------- 
+4ldbC     G-QPIIPVLL--------PK----YI--------------DLTMVIT---DTCHSPASLPA------- 
+4g1lB     S-SGTACYPISNAS-PQVAK----ILW-SQ-T-ARLR---SVKVIIQ--------------AGTQRAV 
+4g1gB     S-SGTACYPISNAS-PQVAK----ILW-SQ-T-ARLR---SVKVIIQ--------------AGTQRAV 
+4g1oB     S-SGTACYPISNAS-PQVAK----ILW-SQ-T-ARLR---SVKVIIQ--------------AGTQRAV 
+P03485    --NDLLENLQA----------------YQKRMGVQMQ-----RF--K--------------------- 
+ _consrvd
+
+ _aln.pos  480       490       500
+2vqpA     --------------------------- 
+2ykdA     --------------------------- 
+4lp7D     --------------------------- 
+4lddB     --------------------------- 
+1es6A     --------------------------- 
+4ldiA     --------------------------- 
+4ld8A     --------------------------- 
+3tcqA     --------------------------- 
+4ldbC     --------------------------- 
+4g1lB     AVTADHEVTSTKIEKRHTIAKYNPF-- 
+4g1gB     AVTADHEVTSTKIEKRHTIAKYNPFKK 
+4g1oB     AVTADHEVTSTKIEKRHTIAKYNPFKK 
+P03485    --------------------------- 
+ _consrvd

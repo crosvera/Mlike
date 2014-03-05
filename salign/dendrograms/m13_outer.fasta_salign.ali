@@ -1,0 +1,104 @@
+
+>P1;2vqpA
+sequence::     : :     : :::-1.00:-1.00
+-TTVK--D---LTM------KT-LN-PTHDIIA--LCEFENIV-T-------------SKKVI-IPTYLRSI---
+--SV--------R----NK-----DL-NTLENIT-T--TEFKNAIT-------NAKII--PYS---GLL-----L
+VITVTD--NKGAF---------------K-Y------IKP----------QSQFIVD---------L-GA-YLEK
+--E----S-IYYVTTNWKHT---ATRFA---------IK--------------PR---E----------------
+------------*
+
+>P1;2ykdA
+sequence::     : :     : :::-1.00:-1.00
+-TTVK--D---LTM------KT-LN-PTHDIIA--LCEFENIV-T-------------SKKVI-IPTYLRSI---
+--SV--------R----NK-----DL-NTLENIT-T--TEFKNAIT-------NAKII--PYS---GLL-----L
+VITVTD--NKGAF---------------K-Y------IKP----------QSQFIVD---------L-GA-YLEK
+--E----S-IYYVTTNWKHT---ATRFA---------IK--------------PM---E----------------
+------------*
+
+>P1;4lp7D
+sequence::     : :     : :::-1.00:-1.00
+G----------------------K--KTHDLIA--LCDFMDLE-K-------------NTPVT-IPAFIKSV---
+--SI--------K----ESESATV---------E---A-AI-A--L-------TQAKI--APYAGLIMI-----M
+TMNNP-K--G---------------------------G-------------AGTQVI---------V--E-LGAY
+--VQAES--ISKICKTWSHQ---GTRYV---------LK--------------SR--------------------
+------------*
+
+>P1;4lddB
+sequence::     : :     : :::-1.00:-1.00
+--W--------TD------------A--LRPGI--SFH------------------------PKLRPILLP----
+---T--------------------SP-----EKIQAIMTS-LQDF--------KIV-PIDPTK--N-IM-----G
+IEVPETLVHKL----------------------------------------QPIIPV---------LL-------
+-PK----YI-------G----G-DLTMV---------IT--------------------Q---------------
+------------*
+
+>P1;1es6A
+sequence::     : :     : :::-1.00:-1.00
+--W--------TDD-----------G-ALRPGI--SFH------------------------PKLRPILLPNKNS
+ADLT--------------------SP-----EKIQAIMTS-LQDF--------KIV-PIDPT---KNIM-----G
+IEVPETLVLKL-----------------TG--------------------GQPIIPV---------LL-------
+-PK----YI---G---LDPVAPGDLTMV---------ITQDCDTCHSPASLP-----------------------
+------------*
+
+>P1;4ldiA
+sequence::     : :     : :::-1.00:-1.00
+--W--------TDD----------GA--LRPGI--SFH------------------------PKLRPILLPNK--
+--T---------------------SP-----EKIQAIRTS-LQDF--------KIV-PIDPT---KNIM-----G
+IEVPETLVHKL-----------------TG--------------------GQPIIPV---------LL-------
+-PK----YI---G---LDPVAPGDLTMV---------ITQD----------------------------------
+------------*
+
+>P1;4ld8A
+sequence::     : :     : :::-1.00:-1.00
+--W--------TD---------------LRPGL--SFH------------------------PKLRPVLLPG---
+--------------------------K----DKIQTIVNL-MQDF--------KIV-PIDPA---KSII-----G
+IEVPELLVHKL-----------------TGKK---------K-------NGQPIIPV---------LL-------
+-PK----YI---G-------PG-DLTMV---------IT------------------------------------
+------------*
+
+>P1;3tcqA
+sequence::     : :     : :::-1.00:-1.00
+--W--------TD----------------RPGL--SFH------------------------PKLRPVLLPG---
+---T--------------------AP-----DKIQTIVNL-MQDF--------KIV-PIDPA---KSII-----G
+IEVPELLVHKL-----------------TGKK------MSQK-------NGQPIIPV---------LL-------
+-PK----YI---G-------PG-DLTMV---------IT------------------------------------
+------------*
+
+>P1;4ldbC
+sequence::     : :     : :::-1.00:-1.00
+--W--------T-------------A--LRPGI--SFH------------------------PKLRPILLPN---
+------------------------P------EKIQAIMTS-LQDF--------KIV-PIDPT---KNIM-----G
+IEVPETLVHKL-----------------T--------------------G-QPIIPV---------LL-------
+-PK----YI--------------DLTMV---------IT---DTCHSPASLPA----------------------
+------------*
+
+>P1;4g1lB
+sequence::     : :     : :::-1.00:-1.00
+--I-PTA-----A-LKVS------GSSLYNLAL--NVTIDVEVDPKSPLVKSLSKSDSGYYAN-LFLHIGLM---
+--ST--------VDKKGKK-----VT-FD--KLERKI-RRL--DL--------SVGLS--DVL--GPSV-----L
+VKARGA-R--T-----------------R-------------LLAPFFSS-SGTACY---------PISNAS-PQ
+VAK----ILW-SQ-T-ARLR---SVKVI---------IQ--------------AGTQRAVAVTADHEVTSTKIEK
+RHTIAKYNPF--*
+
+>P1;4g1gB
+sequence::     : :     : :::-1.00:-1.00
+--I-PTA-----A-LKVS------GSSLYNLAL--NVTIDVEVDPKSPLVKSLSKSDSGYYAN-LFLHIGLM---
+--ST--------VDKKGKK-----VT-FD--KLERKI-RRL--DL--------SVGLS--DVL--GPSV-----L
+VKARGA-R--T-----------------R-------------LLAPFFSS-SGTACY---------PISNAS-PQ
+VAK----ILW-SQ-T-ARLR---SVKVI---------IQ--------------AGTQRAVAVTADHEVTSTKIEK
+RHTIAKYNPFKK*
+
+>P1;4g1oB
+sequence::     : :     : :::-1.00:-1.00
+--I-PTA-----A-LKVS------GSSLYNLAL--NVTIDVEVDPKSPLVKSLSKSDSGYYAN-LFLHIGLM---
+--ST--------VDKKGKK-----VT-FD--KLERKI-RRL--DL--------SVGLS--DVL--GPSV-----L
+VKARGA-R--T-----------------R-------------LLAPFFSS-SGTACY---------PISNAS-PQ
+VAK----ILW-SQ-T-ARLR---SVKVI---------IQ--------------AGTQRAVAVTADHEVTSTKIEK
+RHTIAKYNPFKK*
+
+>P1;P03485
+sequence::     : :     : :::-1.00:-1.00
+MSLLTEVETYVLSIIPSGPLKAEIAQRLEDVFAGKNTDLEVLME------WLKTRPILSPLTKGILGFVFTL---
+--TVPSERGLQRRRFVQNALNGNGDP-NNMDKAV-KLYRKLKREITFHGAKEISLSYSAGALASCMGLIYNRMGA
+VTT------EVAFGLVCATCEQIADSQHRSHRQMVTTTNPLIRH------ENRMVLASTTAKAMEQMAGSS--EQ
+AAEAM------EVASQAR-QMVQAMRTIGTHPSSSAGLKNDLLENLQAYQ---KRMGVQMQRFK-----------
+------------*
