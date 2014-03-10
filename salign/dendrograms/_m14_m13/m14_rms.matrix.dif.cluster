@@ -1,0 +1,49 @@
+# Created by cluster, (c) Peter Kleiweg 1998 - 2007
+# More info: http://www.let.rug.nl/~kleiweg/L04/
+# More info: http://www.let.rug.nl/~kleiweg/clustering/
+# Input file: rms.matrix.dif
+# Clustering algorithm: Ward's Method (Minimum Variance)
+# Date: Thu Mar  6 16:17:48 2014
+
+15 0.127
+L 2vqpA
+L 2ykdA
+16 0.283
+L 1h2cA
+L 4ldmA
+17 0.32
+L 3tcqA
+L 4ld8A
+18 0.354
+L 1es6A
+C 17
+19 0.461667
+C 16
+L 1h2dA
+20 0.496
+L 4g1lB
+L 4g1oB
+21 0.499
+C 18
+L 4ldbC
+22 0.504667
+L 4g1gB
+C 20
+23 0.556
+L 4lddB
+L 4ldiA
+24 1.11233
+C 21
+C 23
+25 1.425
+C 15
+L 4lp7D
+26 4.00533
+C 25
+C 22
+27 5.40067
+C 19
+C 26
+28 9.18533
+C 24
+C 27

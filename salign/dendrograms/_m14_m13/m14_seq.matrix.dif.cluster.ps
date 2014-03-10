@@ -1,0 +1,186 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%BoundingBox: 120 537 459 705
+%%Creator: den, Version 1.29, (c) P. Kleiweg 1997 - 2008
+%%CreationDate: Thu Mar  6 16:38:22 2014
+%%Title: m14_seq.matrix.dif.cluster 1
+%%LanguageLevel: 1
+%%EndComments
+
+64 dict begin
+
+/EXP { 1 exp } def
+/FontName /Helvetica def
+/FontSize 8 def
+/LineSkip 9.6 def
+/LineSkip2 14.4 def
+
+/TopMargin 700 def
+/LeftMargin 150 def
+
+/Width 300 def
+
+/RulerSkip 18.4 def
+/RulerStep 20 def
+
+.5 setlinewidth
+
+%%% End of User Options %%%
+
+FontName findfont FontSize scalefont setfont
+
+gsave
+    newpath
+    0 0 moveto
+    (Ag) false charpath
+    pathbbox
+grestore
+/Up exch def
+pop
+neg /Down exch def
+pop
+gsave
+    newpath
+    0 0 moveto
+    (x) false charpath
+    pathbbox
+grestore
+2 div /Shift exch def
+pop
+pop
+pop
+
+/y TopMargin def
+
+/Min 0 def
+/Max 75.7143 def
+
+/nl {
+  /y y LineSkip add LineSkip2 sub def
+} bind def
+
+/Cstroke {
+    stroke
+} bind def
+
+/Cshow {
+    show
+} bind def
+
+% stack in:  (label)
+% stach out: x y
+/l {
+    dup stringwidth pop
+    neg LeftMargin add 4 sub y Shift sub moveto
+    Cshow
+    LeftMargin y
+    /y y LineSkip sub def
+} bind def
+
+% stack in:  x1 y1 x2 y2 value
+% stack out: x3 y3
+/c {
+    Min sub EXP Width mul Max Min sub EXP div LeftMargin add
+    5 1 roll
+    3 index 3 index moveto
+    4 index 3 index lineto
+    4 index 1 index lineto
+    1 index 1 index lineto
+    Cstroke
+    exch pop
+    add 2 div
+    exch pop
+} bind def
+
+% stack in:  x y (text)
+% stack out: x y
+/n {
+    2 index 3 add
+    2 index 2 add Down add
+    moveto
+    Cshow
+} bind def
+
+(1es6A) l
+(1h2cA) l
+(2ykdA) l
+9 c
+(3tcqA) l
+(4g1gB) l
+8 c
+31 c
+(1h2dA) l
+(2vqpA) l
+9 c
+(4g1lB) l
+(4ld8A) l
+8 c
+31 c
+(4g1oB) l
+(4lddB) l
+9 c
+(4ldmA) l
+(4lp7D) l
+9 c
+33.25 c
+45.75 c
+49 c
+63.9167 c
+(4ldbC) l
+70.2308 c
+(4ldiA) l
+75.7143 c
+pop pop
+
+% This draws the ruler
+/setmark1 {
+    Min sub EXP Width mul Max Min sub EXP div LeftMargin add
+    y moveto
+    0 2 rlineto
+    stroke
+} bind def
+
+/setmark {
+    dup
+    Min sub EXP Width mul Max Min sub EXP div LeftMargin add
+    y moveto
+    gsave
+        0 4 rlineto
+        stroke
+    grestore
+    0 FontSize neg rmoveto
+    20 string cvs
+    dup stringwidth pop 2 div neg 0 rmoveto
+    show
+} bind def
+
+/y y LineSkip add RulerSkip sub def
+0 RulerStep 5 div Max {
+    dup Min ge { setmark1 } { pop } ifelse
+} for
+0 RulerStep Max {
+    dup Min ge { setmark } { pop } ifelse
+} for
+RulerStep neg 5 div dup Min {
+    dup Max le { setmark1 } { pop } ifelse
+} for
+RulerStep neg dup Min {
+    dup Max le { setmark } { pop } ifelse
+} for
+LeftMargin y moveto
+Width 0 rlineto stroke
+
+% This draws the vertical line for X equals 0
+Min 0 lt Max 0 gt and {
+    Min neg EXP Width mul Max Min sub EXP div LeftMargin add
+    dup
+    y
+    moveto
+    TopMargin FontSize 2 div add
+    lineto
+    [ 3 ] 0 setdash
+    stroke
+} if
+
+end
+showpage
+%%EOF

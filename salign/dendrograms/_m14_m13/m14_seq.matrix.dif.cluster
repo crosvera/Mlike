@@ -1,0 +1,49 @@
+# Created by cluster, (c) Peter Kleiweg 1998 - 2007
+# More info: http://www.let.rug.nl/~kleiweg/L04/
+# More info: http://www.let.rug.nl/~kleiweg/clustering/
+# Input file: m14_seq.matrix.dif
+# Clustering algorithm: Group Average (UPGMA: Unweighted Pair Group Method using Arithmetic averages)
+# Date: Thu Mar  6 16:38:07 2014
+
+15 8
+L 4g1lB
+L 4ld8A
+16 8
+L 3tcqA
+L 4g1gB
+17 9
+L 1h2dA
+L 2vqpA
+18 9
+L 1h2cA
+L 2ykdA
+19 9
+L 4ldmA
+L 4lp7D
+20 9
+L 4g1oB
+L 4lddB
+21 31
+C 17
+C 15
+22 31
+C 18
+C 16
+23 33.25
+C 20
+C 19
+24 45.75
+C 21
+C 23
+25 49
+C 22
+C 24
+26 63.9167
+L 1es6A
+C 25
+27 70.2308
+C 26
+L 4ldbC
+28 75.7143
+C 27
+L 4ldiA
